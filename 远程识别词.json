@@ -1,28 +1,27 @@
 #去除发布组
 @QHstudIo =>
+-QHstudIo =>
 @HHWEB =>
+-HHWEB =>
 @QC =>
 @MWeb =>
+-MWeb =>
 @ADWeb =>
+-ADWeb =>
 @PTerWEB =>
+-PTerWEB =>
 @CNHK =>
 @CMCTV =>
 @OurTV =>
--QHstudIo =>
--ADWeb =>
-@CHDWEB =>
-@LeagueWEB =>
 -OurTV =>
+@CHDWEB =>
 -CHDWEB =>
+@LeagueWEB =>
 -Pure@HDSWEB =>
 @UBWEB =>
--PTerWEB =>
 -HDCTV =>
 @FLTTH =>
 @HaresWEB =>
--HHWEB =>
 -SharkWEB =>
 @HDR => - HDR
 - Netflix =>
-@UBWEB =>
--ADWeb
