@@ -1,27 +1,18 @@
-#去除发布组
-@QHstudIo =>
--QHstudIo =>
-@HHWEB =>
--HHWEB =>
-@QC =>
-@MWeb =>
--MWeb =>
-@ADWeb =>
-ADWeb =>
-@PTerWEB =>
--PTerWEB =>
-@CNHK =>
-@CMCTV =>
-@OurTV =>
--OurTV =>
-@CHDWEB =>
--CHDWEB =>
-@LeagueWEB =>
--Pure@HDSWEB =>
-@UBWEB =>
--HDCTV =>
-@FLTTH =>
-@HaresWEB =>
--SharkWEB =>
-@HDR => - HDR
-- Netflix =>
+QHstudIo
+HHWEB
+QC
+MWeb
+ADWeb
+PTerWEB
+CNHK
+CMCTV
+OurTV
+CHDWEB
+LeagueWEB
+Pure@HDSWEB
+UBWEB
+HDCTV
+FLTTH
+HaresWEB
+SharkWEB
+-HDR => - HDR
