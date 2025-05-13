@@ -6,8 +6,5 @@
 #吞噬星空
 @?{[includes=ADWeb;tmdbid=101172;s=5]} => {[s=1]}
 
-#NEST
-@?{[includes=Nest;DoVi]} => 
-
 #dv展示样式替换
 DoVi => DV
