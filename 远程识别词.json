@@ -22,6 +22,6 @@ SharkWEB
 -HDR => - HDR
 V2 => HQ
 Dolby Vision.HDR
-^The\.Last\.Of\.Us\.(S\d{2}E\d{2}\.\d{4}\.)\d+p => The Last Of Us \1SDR
+^The\.Last\.Of\.Us\.(S\d{2}E\d{2}\.\d{4}\.)\d+p => The Last Of Us \1SDR.
 #识别错误替换
 刑侦12.D.I.D..12 => 刑侦12
