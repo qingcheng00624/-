@@ -9,5 +9,9 @@
 #吞噬星空
 @?{[includes=ADWeb;tmdbid=101172;s=5]} => {[s=1]}
 
+#逆天成仙
+@?{[includes=MWeb;tmdbid=129349]} => {[tmdbid=287998]}
+
+
 #dv展示样式替换
 DoVi => DV
