@@ -28,4 +28,4 @@ Dolby Vision.HDR
 刑侦12.D.I.D..12 => 刑侦12
 
 #识别为制作组
-(?<!-)(IQ\+) => -\1
+(?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|KKTV|ATVP|DSNP|NF|CRAMZN|Netflix|Amazon|AppleTV\+|IQ) => -\1
