@@ -9,6 +9,10 @@
 #吞噬星空
 @?{[includes=ADWeb;tmdbid=101172;s=5]} => {[s=1]}
 
+#诛仙
+@?{[tmdbid=206484;s=2]} => {[s=1;e=EP+26]}
+@?{[tmdbid=206484;s=3]} => {[s=1;e=EP+52]}
+
 #逆天成仙
 @?{[includes=MWeb;tmdbid=129349]} => {[tmdbid=287998]}
 
