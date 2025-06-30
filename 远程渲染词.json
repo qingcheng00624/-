@@ -16,6 +16,9 @@
 #逆天成仙
 @?{[includes=MWeb;tmdbid=129349]} => {[tmdbid=287998]}
 
+#锦绣芳华
+@?{[includes=锦绣芳华;s=1]} => {[tmdbid=243083;s=2]}
+
 
 #dv展示样式替换
 DoVi => DV
