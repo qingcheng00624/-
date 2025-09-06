@@ -1,17 +1,4 @@
 #去除发布组
--QHstudIo
--HHWEB
--QC
--MWeb
--ADWeb
--PTerWEB
--CNHK
--CMCTV
--OurTV
--CHDWEB
--LeagueWEB
--Pure@HDSWEB
--UBWEB
 -HDCTV
 -FLTTH
 -HaresWEB
@@ -23,8 +10,6 @@ HFR
 ￡cXcY@FRDS
 -AnimeS@ADWeb
 -Xiaomi
--FROGWeb
--HDKWeb
 
 #特效名词替换
 -HDR => - HDR
