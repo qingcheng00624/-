@@ -1,0 +1,21 @@
+#去除发布组
+-HDCTV
+-FLTTH
+-HaresWEB
+-SharkWEB
+&#39;
+HFR
+-BestWEB
+-BlackTV
+￡cXcY@FRDS
+-AnimeS@ADWeb
+-Xiaomi
+Complete.
+
+#特效名词替换
+-HDR => - HDR
+V2 => HQ
+Dolby Vision.HDR
+^The\.Last\.Of\.Us\.(S\d{2}E\d{2}\.\d{4}\.)\d+p => The Last Of Us \1SDR.
+#识别错误替换
+刑侦12.D.I.D..12 => 刑侦12
