@@ -7,7 +7,7 @@
 @?{[includes=ADWeb;tmdbid=228429;s=2]} => {[s=1]}
 
 #吞噬星空
-@?{[includes=ADWeb;tmdbid=101172;s=5]} => {[s=1]}
+@?{[tmdbid=101172;s=4]} => {[s=1;e=EP+85]}
 
 #诛仙
 @?{[tmdbid=206484;s=2]} => {[s=1;e=EP+26]}
