@@ -1,0 +1,10 @@
+{
+  "name": "我的图标",
+  "description": "自定义播放器图标",
+  "icons": [
+    {
+      "name": "115黄",
+      "url": "https://raw.githubusercontent.com/qingcheng00624/-/main/115yuan-huang.png"
+    }
+  ]
+}
