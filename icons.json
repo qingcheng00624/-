@@ -1,5 +1,10 @@
 {
   "name": "我的图标库",
   "description": "自动收录 icons 文件夹内的图标",
-  "icons": []
+  "icons": [
+    {
+      "name": "115yuan-huang",
+      "url": "https://raw.githubusercontent.com/qingcheng00624/-/main/icons/115yuan-huang.png"
+    }
+  ]
 }
