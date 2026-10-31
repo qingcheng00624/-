@@ -3,6 +3,10 @@
   "description": "自动收录 icons 文件夹内的图标",
   "icons": [
     {
+      "name": "115",
+      "url": "https://raw.githubusercontent.com/qingcheng00624/-/main/icons/115.png"
+    },
+    {
       "name": "115yuan-huang",
       "url": "https://raw.githubusercontent.com/qingcheng00624/-/main/icons/115yuan-huang.png"
     }
